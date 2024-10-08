@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "image":"./Images/programmingc.png",
+        "skill":"Programming C"
+    },
+    {
+        "id":2,
+        "image":"./Images/sqlimg.png",
+        "skill":"SQL"
+    },
+    {
+        "id":3,
+        "image":"./Images/python.png",
+        "skill":"Python"
+    },
+    {
+        "id":4,
+        "image":"./Images/html.png",
+        "skill":"HTML"
+    },
+    {
+        "id":5,
+        "image":"./Images/css.png",
+        "skill":"CSS"
+    },
+    {
+        "id":6,
+        "image":"./Images/javascript.png",
+        "skill":"Javascript"
+    },
+    {
+        "id":7,
+        "image":"./Images/download.png",
+        "skill":"React"
+    }
+]

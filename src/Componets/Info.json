@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "image":"./Images/project1.jpg",
+        "Name":"Facebook Clone",
+        "description":"This HTML and CSS project replicates Facebook's interface, including a navigation bar, user profiles, stories, posts, and a sidebar with various options, focusing purely on design and layout.",
+        "images": ["./Images/facebook.png", "./Images/login.png", "./Images/signup.png"],
+        "button1":"Demo",
+        "link1": "https://github.com/project-one",
+        "button2":"Code",
+       "link2": "https://project-one.com"
+    },
+
+    {
+        "id":2,
+        "image":"./Images/project2.jpg",
+        "Name":"Food Ordering Platform",
+        "description":" This webpage is a simple Zomato clone created using HTML and CSS, featuring a navbar, search bar, dining sections, restaurant collections, and a footer with links and social media icons.",
+        "images": ["./Images/food1.png", "./Images/food2.png", "./Images/food3.png"],
+        "button1":"Demo",
+        "link1": "https://github.com/project-one",
+        "button2":"Code",
+        "link2": "https://project-one.com"
+    },
+
+    {
+        "id":3,
+        "image":"./Images/project3.jpg",
+        "Name":"Urban Clap",
+        "description":"This HTML page is for Urban Company, including a navigation bar, a main section with home services and promotional cards, and a footer with company details and social media links.",
+        "images": ["./Images/urban1.png", "./Images/urban2.png", "./Images/urban3.png"],
+        "button1":"Demo",
+        "link1": "https://github.com/project-one",
+        "button2":"Code",
+        "link2": "https://project-one.com"
+    },
+
+    {
+        "id":4,
+        "image":"./Images/project4.jpg",
+        "Name":"single page website",
+        "description":"This HTML document features a top navigation bar, a hero section with a video icon, and sections for showcasing features, strategies, and partner logos. It uses Bootstrap for styling and responsiveness.",
+        "images": ["./Images/single1.png", "./Images/single2.png", "./Images/single3.png"],
+        "button1":"Demo",
+        "link1": "https://github.com/project-one",
+        "button2":"Code",
+        "link2": "https://project-one.com"
+    }
+]
